@@ -1,0 +1,12 @@
+D:\Courses\R.E\OAWEBAPI\Core\bin\Debug\net6.0\OAWEBAPI.Core.deps.json
+D:\Courses\R.E\OAWEBAPI\Core\bin\Debug\net6.0\OAWEBAPI.Core.dll
+D:\Courses\R.E\OAWEBAPI\Core\bin\Debug\net6.0\OAWEBAPI.Core.pdb
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.csproj.AssemblyReference.cache
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.AssemblyInfoInputs.cache
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.AssemblyInfo.cs
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.csproj.CoreCompileInputs.cache
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.dll
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\refint\OAWEBAPI.Core.dll
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\OAWEBAPI.Core.pdb
+D:\Courses\R.E\OAWEBAPI\Core\obj\Debug\net6.0\ref\OAWEBAPI.Core.dll

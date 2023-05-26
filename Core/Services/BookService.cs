@@ -7,9 +7,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System.Collections.Generic;
-using OAWEBAPI.Core.Entities;
-using OAWEBAPI.Core.Interfaces;
-
 namespace OAWEBAPI.Core.Services
 {
     public class BookService
@@ -26,6 +23,5 @@ namespace OAWEBAPI.Core.Services
             return _bookRepository.GetAll();
         }
 
-        // Additional methods
     }
 }
